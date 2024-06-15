@@ -1,0 +1,23 @@
+// Total test cases
+// size of array
+// elements of array
+// Target value
+
+
+5
+2
+7 1
+8
+3
+1 6 3
+4
+4
+1 4 2 3
+5
+6
+1 4 8 6 5 4
+9
+5
+1 2 3 4 5
+3
+
